@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialWMe</string>
+    <string name="textedit">What do you want to talk about?</string>
+    <string name="postBtn">POST</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092671344425",
+    "project_id": "socialtemp-7edc3",
+    "storage_bucket": "socialtemp-7edc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092671344425:android:25d97cd175d024a8853138",
+        "android_client_info": {
+          "package_name": "com.tooglamtogivedamn.socialtemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092671344425-l9b84202jjkddnddothunlhpafd1bjuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZk2kYxxtRy-OSbblcrBXQapUMeIV6FAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092671344425-g35uot4nru4qt52lj9maf41b1igqn2r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
